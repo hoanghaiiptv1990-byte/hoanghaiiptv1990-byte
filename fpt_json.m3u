@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8zsLSn6x/icon-channel-vtv1-hd-165657381026.png",VTV1 HD
+https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/764CfB5H/icon-channel-vtv2-hd-16565576783.png",VTV2 HD
+https://live.fptplay53.net/live/media/v2abr/live247-hls-avc/v2abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGB4rXcx/icon-channel-vtv3-hd-165657381668.png",VTV3 HD
+https://live.fptplay53.net/live/media/v3abr/live247-hls-avc/v3abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjcT4v8S/icon-channel-vtv4-hd-165657382285.png",VTV4 HD
+https://live.fptplay53.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j5GRD2gJ/icon-channel-vtv5-hd-165657382858.png",VTV5 HD
+https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fz5Q9qzS/vtv-6410x230-1780822225341.jpg",VTV6 HD
+https://live.fptplay53.net/live/media/v6abr/live247-hls-avc/v6abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
